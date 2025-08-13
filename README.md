@@ -11,4 +11,8 @@
 ## 2. Binary Search Algorithm.
 ### Time Complexity => Best Case(O(1)) and Worst Case(O(log n)).
 * Binary Search Algorithm.
-* Order Agnostic Search. 
+* Order Agnostic Search.
+* Ceiling Of a Number
+* Flooring of a Number
+## 3. Amazon Interview Question
+* Find the Element in an Infinite Array. (Dont use array.length).
