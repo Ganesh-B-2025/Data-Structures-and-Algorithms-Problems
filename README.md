@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 ## 1. Linear Data Structure. 
-### Time Complexity => Best Case(O(1)) and Worst Case(O(n)).
+### Time Complexity = `Best Case(O(1)) and Worst Case(O(n)).`
 * Linear Data Structure.
 * Find the character in a Given Word(String).
 * Find Maximum Value in 2D Array.
@@ -9,10 +9,12 @@
 * Search the Target Element in the Given Range of an Array Length.
 * Search the Minimum and Maximum Number in an Array.
 ## 2. Binary Search Algorithm.
-### Time Complexity => Best Case(O(1)) and Worst Case(O(log n)).
+### Time Complexity = `Best Case(O(1)) and Worst Case(O(log n))`.
 * Binary Search Algorithm.
 * Order Agnostic Search.
 * Ceiling Of a Number
 * Flooring of a Number
+* Find Smallest Letter Greater Than Target `(LeetCoe Q.744).`
+* Find First and Last Position of Element in Sorted Array `(LeetCode Q.34).`
 ## 3. Amazon Interview Question
-* Find the Element in an Infinite Array. (Dont use array.length).
+* Find the Element in an Infinite Array. `(Dont use array.length).`
