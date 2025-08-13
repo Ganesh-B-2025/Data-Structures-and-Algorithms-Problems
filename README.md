@@ -8,7 +8,7 @@
 * Search the Target Value in the 2D Array.
 * Search the Target Element in the Given Range of an Array Length.
 * Search the Minimum and Maximum Number in an Array.
-  ### 2. Binary Search Algorithm.
+## 2. Binary Search Algorithm.
 ### Time Complexity => Best Case(O(1)) and Worst Case(O(log n)).
 * Binary Search Algorithm.
 * Order Agnostic Search. 
